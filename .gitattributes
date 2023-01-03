@@ -1,0 +1,6 @@
+[attr]rust text eol=lf
+
+* text=auto eol=lf
+*.rs rust diff=rust
+*.fixed linguist-language=Rust
+*.mir linguist-language=Rust
